@@ -1,0 +1,6 @@
+a.addChild(c)
+a.addChild(d)
+a.addChild(e)
+b.addChild(f)
+root.addChild(a)
+root.addChild(b)
