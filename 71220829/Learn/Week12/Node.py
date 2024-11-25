@@ -63,6 +63,8 @@ if __name__=="__main__":
     root.addChild(20)
     root.children[0].addChild(50)
     root.children[0].addChild(3)
+    root.children[0].addChild(30)
+    root.children[1].addChild(8)
     root.postorder()
     print()
     root.preorder()
